@@ -1,6 +1,6 @@
-#include <stdio.h>
+#iclude <stdio.h>
 /**
- * main - a program c thats uses the function printf
+ * main - A program c that uses the function printf to print a line
  * Return: 0
  */
 int main(void)
@@ -8,3 +8,4 @@ int main(void)
 	printf("with proper grammar, but the outcome is a piece of art,\n")
 		return (0);
 }
+
