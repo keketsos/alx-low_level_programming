@@ -1,6 +1,11 @@
 #include <stdio.h>
-int main(){
-	printf("A masterpiece,painted with precision,and passion./n");
-
-	return 0;
+/**
+ * man - Entry point
+ *
+ * Return 0
+ */
+int main(void)
+{
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
