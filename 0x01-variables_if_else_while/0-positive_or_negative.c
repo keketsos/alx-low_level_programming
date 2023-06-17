@@ -12,13 +12,13 @@
 
 int main(void)
 {
-    int n;
+	int n;
 
-    srand(time(0));
-    n = rand() - RAND_MAX / 2;
-    /* your code goes there */
+	/* Generate a random number */
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 
-    /* Print the generated number */
+	/* Print the generated number */
 	printf("%d is ", n);
 
 	/* Check if the number is positive, zero, or negative */
