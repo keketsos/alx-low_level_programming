@@ -21,4 +21,3 @@ _putchar(c);
 }
 _putchar('\n');
 }
-i
